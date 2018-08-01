@@ -12,7 +12,7 @@ logger.add (
 logger.level = 'debug';
 //Initialize bot
 var bot = new Discord.Client({
-    token: NDc0MDc4NTU1NTkzMjQ0Njgz.DkLVMQ.tUsBI5KWz764SLOjZJwg11XZWYE,
+    token: MR DAN HAS SHOWN ME THE WAY,
     autorun: true
 });
 bot.on('ready', function (event) {
